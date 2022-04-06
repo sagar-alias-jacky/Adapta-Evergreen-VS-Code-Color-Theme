@@ -1,0 +1,41 @@
+{
+    "name": "adapta-evergreen-theme",
+    "displayName": "Adapta Evergreen Theme",
+    "description": "A VS Code color theme to go with my linux rice",
+    "version": "1.0.0",
+    "publisher": "SagarPaul",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "sagar paul",
+        "sagarpaul",
+        "adapta",
+        "green",
+        "evergreen",
+        "adapta evergreen",
+        "adapta green",
+        "linux",
+        "material",
+        "atom",
+        "rice"
+    ],
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Adapta Evergreen Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adapta Evergreen Theme-color-theme.json"
+            }
+        ]
+    }
+}
