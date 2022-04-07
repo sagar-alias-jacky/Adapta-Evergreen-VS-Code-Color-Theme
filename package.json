@@ -6,8 +6,12 @@
     "publisher": "SagarPaul",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/sagar-alias-jacky/Adapta-Evergreen-VS-Code-Color-Theme"
     },
+    "bugs": {
+        "url": "https://github.com/sagar-alias-jacky/Adapta-Evergreen-VS-Code-Color-Theme/issues"
+    },
+    "license": "GPL",
     "keywords": [
         "theme",
         "dark theme",
@@ -21,10 +25,25 @@
         "linux",
         "material",
         "atom",
-        "rice"
+        "rice",
+        "color"
+    ],
+    "homepage": "https://github.com/sagar-alias-jacky/Adapta-Evergreen-VS-Code-Color-Theme",
+    "author": {
+        "name": "Sagar Paul",
+        "email": "jackypro5000@gmail.com"
+    },
+    "icon": "assets/icons_and_badges/extension_icon.png",
+    "galleryBanner": {
+        "color": "#222d32",
+        "theme": "dark"
+    },
+    "files": [
+        "assets",
+        "themes"
     ],
     "engines": {
-        "vscode": "^1.66.0"
+        "vscode": "^1.43.0"
     },
     "categories": [
         "Themes"
