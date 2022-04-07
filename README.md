@@ -17,7 +17,7 @@ A VS Code color theme to go with my linux rice.
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```bash
-ext install adapta-evergreen-theme
+ext install SagarPaul.adapta-evergreen-theme
 ```
 
 ## Recommended Extensions
